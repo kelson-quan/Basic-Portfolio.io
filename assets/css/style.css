@@ -116,4 +116,34 @@ h1{
 
 }
 
+.formtitle {
+    float: left;
+    margin: 2px 2px 2px 20px;
+
+}
+
+
+#firstname{
+    float: left;
+    margin: 2px 2px 2px 20px;
+    width: 925px;
+
+}
+
+#lastname{
+    float: left;
+    margin: 2px 2px 2px 20px;
+    width: 925px;
+
+}
+
+#message1{
+    float: left;
+    margin: 2px 2px 2px 20px;
+    width: 925px;
+    height:200px;
+
+}
+
+
 
